@@ -1,11 +1,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Neues Update für Modul „Erweiterte Suche“ auf Version 7.0.1.0](https://blog.d3data.de/module-news/erweiterte-suche/neues-update-fuer-modul-erweiterte-suche-auf-version-7-0-1-0/)
 - [Neuer Patch für Importer auf Version 5.0.6.2](https://blog.d3data.de/module-news/importer/neuer-patch-fuer-importer-auf-version-5-0-6-2/)
 - [Neues Update für Modul „Boniversum“ auf Version 4.0.1.0](https://blog.d3data.de/module-news/boniversum/neues-update-fuer-modul-boniversum-auf-version-4-0-1-0/)
 - [Neues Update für Modul „Content Tabs“ auf Version 4.2.0.0](https://blog.d3data.de/module-news/content-tabs/neues-update-fuer-modul-content-tabs-auf-version-4-2-0-0/)
 - [Neues Update für Modul „Artikelgutschein“ auf Version 4.1.0.0](https://blog.d3data.de/module-news/artikelgutschein/neues-update-fuer-modul-artikelgutschein-auf-version-4-1-0-0/)
-- [Neuer Patch für Modul „Artikelgutschein“ auf Version 4.0.3.1](https://blog.d3data.de/module-news/artikelgutschein/neuer-patch-fuer-modul-artikelgutschein-auf-version-4-0-3-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.d3data.de)
